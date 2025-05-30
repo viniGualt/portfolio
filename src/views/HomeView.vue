@@ -1,6 +1,6 @@
 <template>
   <main>
-    <h1 class="font-bold text-2xl border-r-2 pr-2 blink">Bem-vindo ao meu Portfolio!</h1>
+    <h1 class="font-bold text-2xl inline border-r-2 pr-2 blink">Bem-vindo ao meu Portfolio!</h1>
 
     <div class="p-8">
 

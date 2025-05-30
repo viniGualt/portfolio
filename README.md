@@ -1,29 +1,39 @@
-# mini-portfolio
+# Portfólio
 
-This template should help get you started developing with Vue 3 in Vite.
+Este é um projeto de portfólio pessoal desenvolvido com **Vue.js**, **Vite** e **Tailwind CSS**, com o objetivo de facilitar o contato e também ser apresentado para um trabalho de Front-end utilizando essas tecnologias.
 
-## Recommended IDE Setup
+## Tecnologias utilizadas
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Heroicons](https://heroicons.com/) (para ícones de rede social)
 
-## Customize configuration
+## Como rodar o projeto:
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### 1. Clone o repositório
 
-## Project Setup
-
-```sh
-npm install
+```bash
+git clone https://github.com/viniGualt/portfolio.git
 ```
 
-### Compile and Hot-Reload for Development
+### 2. Instale as dependências
+```
+npm install
+```` 
 
-```sh
+### 3. Inicie o servidor
+```
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
+### 4. Abra o projeto digitando "o"
 ```
+  VITE v6.3.5
+
+  ➜  Local:   http://localhost/
+  
+o
+```
+
+<p align="center">Projeto criado por <b>Vinícius Gualtieri</b></p>
