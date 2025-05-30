@@ -1,0 +1,42 @@
+{
+  "projetos": [
+    {
+      "nome": "Projeto para Consumo de API",
+      "linguagens": ["HTML", "CSS", "JavaScript"],
+      "github": "https://github.com/viniGualt/api-consuming"
+    },
+    {
+      "nome": "Landing page com Tailwind",
+      "linguagens": ["HTML", "CSS", "JavaScript", "Tailwind"],
+      "github": "https://github.com/viniGualt/Tailwhind-Page"
+    },
+    {
+      "nome": "Jogo de RPG em Python",
+      "linguagens": ["Python"],
+      "github": "https://github.com/Thierry2210/JOGO-DE-RPG-PYTHON"
+    }
+  ],
+
+  "habilidades": [
+    { 
+        "nome": "HTML & CSS", 
+        "nivel": 75, 
+        "cor": "bg-blue-600" 
+    },
+    { 
+        "nome": "JavaScript", 
+        "nivel": 65, 
+        "cor": "bg-yellow-500" 
+    },
+    { 
+        "nome": "Vue.js", 
+        "nivel": 30, 
+        "cor": "bg-green-500" 
+    },
+    { 
+        "nome": "Git & GitHub", 
+        "nivel": 60, 
+        "cor": "bg-purple-500" 
+    }
+  ]
+}
